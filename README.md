@@ -6,7 +6,7 @@ A **Next.js** project that allows users to input JSX/HTML code, analyzes the DOM
 
 ## 📌 Features
 
-- ✨ Accepts JSX/HTML input and parses the DOM structure
+- ✨ Accepts JSX/HTML/JS/TSX input and parses the DOM structure
 - 🔍 Analyzes the depth of each element in the DOM tree
 - 🌲 Converts the DOM structure into a **Binary Tree**
 - 📉 Optimizes the DOM by **reducing depth** for better performance
@@ -17,10 +17,7 @@ A **Next.js** project that allows users to input JSX/HTML code, analyzes the DOM
 
 ## 🎥 Demo Video
 
-
-
 https://github.com/user-attachments/assets/3d11fb10-56d8-4e4a-9127-a275963d81ba
-
 
 ---
 
@@ -40,8 +37,32 @@ https://github.com/user-attachments/assets/3d11fb10-56d8-4e4a-9127-a275963d81ba
 
 ---
 
+## 🛠️ How It Works
+
+This project is built using a combination of **Tree, Graph, and Stack data structures** to analyze and optimize the DOM structure efficiently.
+
+### ⚡ Behind the Scenes (DSA Approach):
+- 🌳 **Tree** - Uses a balanced tree to maintain the minimal depth of the DOM.
+- 🔗 **Graph** - Uses **DFS (Depth-First Search)** to traverse all levels of the DOM depth and analyze it level-wise.
+- 📦 **Stack** - Stores and maintains the hierarchical order for level-wise DOM analysis reports.
+
+By optimizing the DOM structure, this tool helps improve performance and efficiency in web applications.
+
+---
+
+## 🔥 Why This Matters
+
+Applying DSA skills to solve challenging problems by integrating them with development enhances confidence in tackling real-world scenarios effectively.
+
+---
+
 ## 🔗 Contact
 
 📧 Email: your_email@example.com  
 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)  
 👨‍💻 LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+
+---
+
+Excited to share this with the dev community! 🚀
+
