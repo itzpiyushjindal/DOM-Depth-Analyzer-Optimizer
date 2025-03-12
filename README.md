@@ -58,9 +58,9 @@ Applying DSA skills to solve challenging problems by integrating them with devel
 
 ## 🔗 Contact
 
-📧 Email: your_email@example.com  
-🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)  
-👨‍💻 LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+📧 Email: princesingh.cse.2020@gmail.com 
+🐦 Twitter: [@nowprincesingh](https://x.com/NowPrinceSingh)  
+👨‍💻 LinkedIn: [Prince Singh](https://in.linkedin.com/in/prince-singh-314a65187)
 
 ---
 
